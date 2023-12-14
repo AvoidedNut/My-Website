@@ -119,8 +119,8 @@ h1{
     font-family: serif;
     font-weight: bold;
     color: aliceblue;
-    font-size: 70pt;
-    padding: 30 500 30 500
+    font-size: 75pt;
+    padding: 30 200 30 200;
 }
 
 iframe{
@@ -135,7 +135,7 @@ h3{
     font-family: serif;
     font-weight: bold;
     font-size: 25pt;
-    padding: 30 500 0 500
+    padding: 30 100 0 100
 }
 
 h4{

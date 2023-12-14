@@ -105,6 +105,13 @@ p {
     line-height: 2;
 }
 
+ol{
+    font-family: sans-serif;
+    line-height: 2;
+    font-size: 24px;
+    
+}
+
 body {
     margin: 0;
     padding: 0;

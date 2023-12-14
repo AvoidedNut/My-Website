@@ -484,6 +484,62 @@ progress {
   display: none !important;
 }
 
+    
+    
+    
+.subsubheading{
+font-size: 22;
+font-weight: 600
+}
+    
+.separator{
+  height: 2px;
+  background-color: #333;
+  border: none;        
+}
+    
+.ithead{
+font-style: italic
+}
+ 
+.contained{
+    padding:10px;
+}
+}
+
+.right-aligned {
+    float: right;    
+}
+.right-aligned {
+
+}
+    
+    
+.right-aligned{
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 .true-background-color{
 background-color: #e4dbd4        
 }

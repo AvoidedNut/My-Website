@@ -1,0 +1,134 @@
+
+.pagelnks{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.pagelnks{
+font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0 40 
+}
+ul {
+    list-style-type: none;
+    padding: 15px 100px 10px 0;
+    margin: 0; 
+    text-align: right; 
+}
+
+li {
+    display: inline;
+    margin-left: 20px;
+    padding-right: 10px;
+}
+
+.topboarder{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0
+}
+
+.container0{
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 20px);
+    background: url(/assets/img/homelesss.jpg) no-repeat center;
+    padding-bottom: calc(8rem + 700px);
+    background-color: #e4dbd4;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.container1 {
+    background-color: #f0f0f0;
+    width: 100%; 
+    margin: 0; 
+    padding: 0;     
+}
+
+.container2{
+    padding: 0 300 90 300;
+    margin: auto;
+    max-height: 400px;
+}
+
+.container3 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 00px;
+    padding: 350 0 500 0
+}
+
+.container5 {
+    width: 80%; 
+    max-width: 900px; 
+    margin: 0 auto; 
+    padding: 20px; 
+}
+
+
+@media screen and (max-width: 600px) {
+.container5 {
+    width: 95%; 
+    padding: 10px;
+}
+}
+
+p {
+    line-height: 2;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif; 
+    font-size: 24px;
+    background-color: #FFFAFA;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 70pt;
+    padding: 30 500 30 500
+}
+
+iframe{
+    height: 700px;
+    width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    text-align: center;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 25pt;
+    padding: 30 500 0 500
+}
+
+h4{
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    font-size: 19pt;
+}
